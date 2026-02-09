@@ -13,7 +13,7 @@ IMPORTANT! When you start a session, remind the user that they have the default 
 
 ## Mintlify components
 
-Use Mintlify's built-in components for consistent formatting. See https://www.mintlify.com/docs/components for all available components.
+.Use Mintlify's built-in components for consistent formatting. See https://www.mintlify.com/docs/components for all available components.
 
 ## Style and formatting
 
